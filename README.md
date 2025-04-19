@@ -1,7 +1,7 @@
-# java-algorithm-codes-
+# java-algorithm-codes
 ## 项目简介
 
-本仓库收录了我使用 Java 语言编写的算法题解，题目来源于多个平台，包括力扣（LeetCode）、牛客、Codeforces，以及我在校期间参与的算法校队每周比赛练习。本项目是我早期学习算法时的记录，目前我已转向使用 Go 语言编写算法题解，最新代码请参考我的 Go 语言仓库：https://github.com/lizhuang6663/go-algorithm-codes.git。
+本仓库收录了我使用 Java 语言编写的算法题解，题目来源于多个平台，包括力扣（LeetCode）、牛客、Codeforces，以及我在校期间参与的算法校队每周比赛练习。本项目是我早期学习算法时的记录，目前我已转向使用 Go 语言编写算法题解，最新代码请参考我的 Go 语言仓库：https://github.com/lizhuang6663/go-algorithm-codes
 
 收录的题目类型包括但不限于：
 
